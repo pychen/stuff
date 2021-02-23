@@ -1,3 +1,3 @@
 stuff
 =====
-Playground for learning Github
+This is my playground for learning Github
